@@ -1,4 +1,4 @@
-import { getAllContacts } from './generateContacts.js';
+import { getAllContacts } from './getAllContacts.js';
 import { writeContacts } from '../utils/writeContacts.js';
 
 export const removeLastContact = async () => {
